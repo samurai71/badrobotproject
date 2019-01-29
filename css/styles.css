@@ -1,0 +1,17 @@
+.container {
+	margin-top: 2em;
+}
+
+.hidden {
+	display: none;
+}
+
+#badRobot {
+	display: block;
+	width: 20%
+
+}
+
+button {
+	margin-top: 1em;
+}
