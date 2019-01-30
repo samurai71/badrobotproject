@@ -1,22 +1,21 @@
 .container {
-	margin-top: 2em;
+  margin-top: 2em;
 }
 
 .hidden {
-	display: none;
+  display: none;
 }
 
 #badRobot {
-	display: block;
-	width: 20%
-
+  display: block;
+  width: 20%
 }
 
 button {
-	margin-top: 1em;
+  margin-top: 1em;
 }
 
 canvas {
-    border:1px solid #d3d3d3;
-    background-color: #f1f1f1;
+  border: 1px solid #d3d3d3;
+  background-color: #f1f1f1;
 }
